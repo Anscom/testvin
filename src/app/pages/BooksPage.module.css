@@ -1,0 +1,25 @@
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .bookList {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .bookItem {
+    margin-bottom: 20px;
+  }
+  
+  .bookCard {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 20px;
+  }
+  
+  .bookCard:hover {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
